@@ -1,6 +1,6 @@
 BNB Smart Chain: Una cadena de bloques paralela de BNB Beacon Chain orientada a posibilitar Contratos Inteligentes
 
-Versión 0.1
+Versión 0.2
 
 2020/04/17
 
